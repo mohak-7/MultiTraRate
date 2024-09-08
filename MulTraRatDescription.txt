@@ -1,0 +1,29 @@
+
+Problem Description:
+Use Cases:
+
+Requirements:
+
+Design:
+1. Read txt file into a array:
+assume a rate:
+
+2  Create another struct/union array with: days, init_amt, trx_amt, pc_amt
+
+3. Run rate finder while loop:  {
+
+}
+
+
+
+Limitations:
+
+Code:
+
+Tests:
+
+Learnings:
+
+Further improvements:
+
+References:
